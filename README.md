@@ -20,6 +20,7 @@ I'm a result-driven **Backend Engineer** with a passion for building secure, sca
 - **🎬 Movie Recommendation Engine**: Built a personalized movie Recommendation API using collaborative filtering, achieving a 10% increase in accuracy.
 
 💼 Currently freelancing and always open to collaboration or full-time roles where I can grow, contribute, and keep learning.
+
 ---
 
 ### 🛠 Tech Stack
@@ -38,8 +39,7 @@ I'm a result-driven **Backend Engineer** with a passion for building secure, sca
 ---
 
 ### 📫 Let’s Connect!
-- [LinkedIn](www.linkedin.com/in/mathiaselorm)
-- 📧 mathiaselorm@gmail.com
+- www.linkedin.com/in/mathiaselorm
 
 ---
 
